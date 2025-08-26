@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+array categorias_viaje
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnExplorar
+id btnFavorito
+id btnFavoritos
+id btnRecomendaciones
+id listViewDestinos
+id listViewFavoritos
+id spCategorias
+id tvActividad
+id tvCategoria
+id tvClima
+id tvNombre
+id tvPais
+id tvPrecio
+layout activity_destinos
+layout activity_details
+layout activity_favorites
+layout activity_main
+layout activity_recommendations
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Tll1icmpapus
+style Theme.Tll1icmpapus
+xml backup_rules
+xml data_extraction_rules

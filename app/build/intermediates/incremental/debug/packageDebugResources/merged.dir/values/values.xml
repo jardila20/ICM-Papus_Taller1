@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias_viaje">
+        <item>Todos</item>
+        <item>Playas</item>
+        <item>Montañas</item>
+        <item>Ciudades Históricas</item>
+        <item>Maravillas del Mundo</item>
+        <item>Selvas</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Tll1-icm-papus</string>
+    <style name="Base.Theme.Tll1icmpapus" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Tll1icmpapus" parent="Base.Theme.Tll1icmpapus"/>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.tll1_icm_papus.app-mergeDebugResources-30:/layout/activity_recommendations.xml",
+        "source": "com.example.tll1_icm_papus.app-main-33:/layout/activity_recommendations.xml"
+    },
+    {
+        "merged": "com.example.tll1_icm_papus.app-mergeDebugResources-30:/layout/activity_favorites.xml",
+        "source": "com.example.tll1_icm_papus.app-main-33:/layout/activity_favorites.xml"
+    },
+    {
+        "merged": "com.example.tll1_icm_papus.app-mergeDebugResources-30:/layout/activity_destinos.xml",
+        "source": "com.example.tll1_icm_papus.app-main-33:/layout/activity_destinos.xml"
+    },
+    {
+        "merged": "com.example.tll1_icm_papus.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.tll1_icm_papus.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tll1_icm_papus.app-mergeDebugResources-30:/layout/activity_details.xml",
+        "source": "com.example.tll1_icm_papus.app-main-33:/layout/activity_details.xml"
+    }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "nombre": "Baia do Sancho",
+    "pais": "Brasil",
+    "categoria": "Playas",
+    "actividad": "Buceo y snorkel",
+    "precio_usd": 1200,
+    "lat": -3.855,
+    "lon": -32.444
+  },
+  {
+    "nombre": "Eagle Beach",
+    "pais": "Aruba (Paises Bajos)",
+    "categoria": "Playas",
+    "actividad": "Tomar el sol y deportes acuáticos",
+    "precio_usd": 1000,
+    "lat": 12.5475,
+    "lon": -70.0547
+  },
+  {
+    "nombre": "El Nido",
+    "pais": "Filipinas",
+    "categoria": "Playas",
+    "actividad": "Islas y kayak",
+    "precio_usd": 1500,
+    "lat": 11.2027,
+    "lon": 119.4623
+  },
+  {
+    "nombre": "Monte Everest",
+    "pais": "Nepal",
+    "categoria": "Montañas",
+    "actividad": "Trekking y montañismo",
+    "precio_usd": 5000,
+    "lat": 27.9881,
+    "lon": 86.9253
+  },
+  {
+    "nombre": "Mont Blanc",
+    "pais": "Francia",
+    "categoria": "Montañas",
+    "actividad": "Senderismo y esquí",
+    "precio_usd": 1800,
+    "lat": 45.8326,
+    "lon": 6.8652
+  },
+  {
+    "nombre": "Aconcagua",
+    "pais": "Argentina",
+    "categoria": "Montañas",
+    "actividad": "Ascenso y trekking",
+    "precio_usd": 2200,
+    "lat": -32.6532,
+    "lon": -70.0109
+  },
+  {
+    "nombre": "Machu Picchu",
+    "pais": "Perú",
+    "categoria": "Maravillas del Mundo",
+    "actividad": "Visita arqueológica",
+    "precio_usd": 1600,
+    "lat": -13.1631,
+    "lon": -72.545
+  },
+  {
+    "nombre": "Roma",
+    "pais": "Italia",
+    "categoria": "Ciudades Históricas",
+    "actividad": "Visitas a monumentos",
+    "precio_usd": 1400,
+    "lat": 41.9028,
+    "lon": 12.4964
+  },
+  {
+    "nombre": "Petra",
+    "pais": "Jordania",
+    "categoria": "Ciudades Históricas",
+    "actividad": "Recorrido arqueológico",
+    "precio_usd": 2000,
+    "lat": 30.3285,
+    "lon": 35.4444
+  },
+  {
+    "nombre": "Gran Muralla China",
+    "pais": "China",
+    "categoria": "Maravillas del Mundo",
+    "actividad": "Caminata cultural",
+    "precio_usd": 1900,
+    "lat": 40.4319,
+    "lon": 116.5704
+  },
+  {
+    "nombre": "Taj Mahal",
+    "pais": "India",
+    "categoria": "Maravillas del Mundo",
+    "actividad": "Turismo cultural",
+    "precio_usd": 1700,
+    "lat": 27.1751,
+    "lon": 78.0421
+  },
+  {
+    "nombre": "Pirámides de Giza",
+    "pais": "Egipto",
+    "categoria": "Maravillas del Mundo",
+    "actividad": "Visita a pirámides y esfinge",
+    "precio_usd": 2100,
+    "lat": 29.9792,
+    "lon": 31.1342
+  },
+  {
+    "nombre": "Amazonas",
+    "pais": "Colombia",
+    "categoria": "Selvas",
+    "actividad": "Ecoturismo y exploración",
+    "precio_usd": 1300,
+    "lat": -3.4653,
+    "lon": -62.2159
+  },
+  {
+    "nombre": "Congo",
+    "pais": "República Democrática del Congo",
+    "categoria": "Selvas",
+    "actividad": "Safari y avistamiento de gorilas",
+    "precio_usd": 2500,
+    "lat": -0.228,
+    "lon": 15.8277
+  },
+  {
+    "nombre": "Borneo",
+    "pais": "Malasia",
+    "categoria": "Selvas",
+    "actividad": "Exploración de selva y orangutanes",
+    "precio_usd": 1800,
+    "lat": 1.611,
+    "lon": 113.553
+  }
+]
